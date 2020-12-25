@@ -34,7 +34,7 @@
         <testng.version>6.4</testng.version>
         <spring.boot.version>2.1.9.RELEASE</spring.boot.version>
 
-        <mysql-connector.version>5.1.31</mysql-connector.version>
+        <mysql-connector.version>8.0.16</mysql-connector.version>
         <mysql-8-connector.version>8.0.16</mysql-8-connector.version>
         <oracle-connector.version>11.2.0.1.0</oracle-connector.version>
         <log4j.version>2.3</log4j.version>
